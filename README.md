@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/hrishabh1306">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh1306)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh1306" />
 </a>
