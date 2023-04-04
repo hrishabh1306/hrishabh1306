@@ -4,7 +4,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hrishabh Bhardwaj</h1>
-  <center><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Analysis+Enthusiast;DSA%20|%20AI%20|%20ML%20;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></center>
+  <centre><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Analysis+Enthusiast;DSA%20|%20AI%20|%20ML%20;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></centre>
 <!-- <h3 align="center">Software Engineer | Data Analysis Enthusiast</h3> -->
 <p align="center">
 <a href="https://www.linkedin.com/in/hrishabh-bhardwaj-080283187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hrishabh-linkedin" height="30" width="40" /></a>
