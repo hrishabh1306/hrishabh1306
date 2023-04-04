@@ -16,12 +16,12 @@
 
 <br>
 <!-- <h3 align="center">Software Engineer | Data Analysis Enthusiast</h3> -->
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/hrishabh-bhardwaj-080283187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hrishabh-linkedin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/h20051497" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hrishabh-hackerrank" height="30" width="40" /></a>
 <a href="https://leetcode.com/Hrishabh1306/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="hrishabh-leetcode" height="30" width="40" /></a>
  <a href = "mailto: hrishabh2002@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
+</p> -->
 <!-- <a href="https://github.com/hrishabh1306">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh1306" />
 </a>
@@ -82,5 +82,25 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </kbd>
+
+</p>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/hrishabh-bhardwaj-080283187/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/hrishabh1306">
+		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
+<!--         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a> -->
+<!-- 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zeeidev">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> -->
+<!-- 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a> -->
+<!-- 		<a style="margin-left: 5px;" target="_blank" href="https://play.google.com/store/apps/dev?id=5506644742288227696&hl=in&gl=US">
+					<img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40"></a> -->
+      </div>
 
 </p>
