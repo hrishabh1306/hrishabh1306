@@ -5,6 +5,16 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hrishabh Bhardwaj</h1>
   <h4 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Analysis+Enthusiast;DSA%20|%20AI%20|%20ML%20;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></h4>
+  <br><br>
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="450px" height="300px" />
+<br><br>
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2 align="left" font-weight="bold">About me</h2>  
+<br><br>
+
+- :I am an aspiring machine learning enthusiast. Always passionate to work with new technologies. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+
+<br>
 <!-- <h3 align="center">Software Engineer | Data Analysis Enthusiast</h3> -->
 <p align="center">
 <a href="https://www.linkedin.com/in/hrishabh-bhardwaj-080283187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hrishabh-linkedin" height="30" width="40" /></a>
