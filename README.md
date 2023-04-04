@@ -14,6 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hrishabh Bhardwaj</h1>
+<h3 align="center">Software Engineer | Data Analysis Enthusiast</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/hrishabh-bhardwaj-080283187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hrishabh-linkedin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/h20051497" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hrishabh-hackerrank" height="30" width="40" /></a>
+<a href="https://leetcode.com/Hrishabh1306/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="hrishabh-leetcode" height="30" width="40" /></a>
+ <a href = "mailto: hrishabh2002@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
 <a href="https://github.com/hrishabh1306">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh1306" />
 </a>
